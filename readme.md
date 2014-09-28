@@ -20,4 +20,4 @@ Build and see it live
     eviltext build
     eviltext serve
 
-Open http://localhost:3000 in your Browser
+Open [http://localhost:3000](http://localhost:3000) in your Browser
