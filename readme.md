@@ -1,4 +1,5 @@
-Sample blog for http://eviltext.com see it live here http://blog-example.eviltext.com
+Sample blog for [EvilText](http://eviltext.com) site generator. See it live
+here http://blog-example.eviltext.com
 
 # Installation
 
